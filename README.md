@@ -3,7 +3,7 @@
 * Clone the repository.
  `git clone https://github.com/Kishan033/React-BoilerPlate.git`
 
-* Install all dependancies
+* Install all dependencies
   `npm i`.
 
 * For Development
