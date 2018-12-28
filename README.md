@@ -1,7 +1,7 @@
-# ReactJs Boilerplate
+# ReactJs Sample COnfiguration
 
 * Clone the repository.
- `git clone https://github.com/Kishan033/React-BoilerPlate.git`
+ `https://github.com/bhavin-bacancy/react-demo.git`
 
 * Install all dependencies
   `npm i`.
